@@ -61,6 +61,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+gem 'sendgrid-ruby'
 
 group :production do
 
